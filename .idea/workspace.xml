@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c088fcfd-75d1-41da-8087-9cd8008b59b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/Lebenslauf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Lebenslauf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +16,13 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,11 +81,26 @@
       <workItem from="1629134655038" duration="790000" />
       <workItem from="1650373491754" duration="3323000" />
       <workItem from="1651061227243" duration="3839000" />
-      <workItem from="1651234706329" duration="389000" />
+      <workItem from="1651234706329" duration="476000" />
+      <workItem from="1651850667621" duration="12261000" />
+      <workItem from="1661929562151" duration="37000" />
+      <workItem from="1669573759226" duration="3281000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
